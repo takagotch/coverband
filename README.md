@@ -2,7 +2,7 @@
 ---
 https://github.com/danmayer/coverband
 
-``'
+```
 gem 'coverband'
 bundle
 gem install coverband
